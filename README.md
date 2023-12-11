@@ -1,2 +1,2 @@
 # The-Original-Pac-Man
-Pac Man created on a MicroBlaze-based system using SystemVerilog. 
+Pac Man created using MicroBlaze-based system on the AMD Spartan-7 FPGA w/ SystemVerilog
